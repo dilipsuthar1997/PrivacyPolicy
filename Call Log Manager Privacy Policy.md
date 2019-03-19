@@ -1,4 +1,5 @@
 ## Privacy Policy
+### Call Log Manager
 
 Dilip Suthar built the Call Log Manager app as a Free app. This SERVICE is provided by Dilip Suthar at no cost and is intended for use as is.
 
