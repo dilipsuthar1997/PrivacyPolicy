@@ -1,3 +1,4 @@
+# SMS Sender
 ## Privacy Policy
 
 Dilip Suthar built the SMS Sender app as a Free app. This SERVICE is provided by Dilip Suthar at no cost and is intended for use as is.
